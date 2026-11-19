@@ -16,3 +16,12 @@ Open `index.html` in a browser, or enable GitHub Pages from **Settings → Pages
 
 ## Important
 This version is a front-end prototype. Data created in dialogs is held in browser memory and resets on refresh. Authentication, secure test delivery, timed sessions, proctoring, server-side grading, file storage, email notifications and a database are not connected yet. Add a secure backend before using it with real student records or examinations.
+
+
+## Public website pages
+- Home, Products, Who it's for, Pricing, Partnership, Newsroom, FAQ and Integrations.
+- Quilgo-inspired original design using ILM branding.
+- Public pages describe product concepts honestly; planned integrations and AI features are not live connections.
+
+## Prototype limitations
+The site is not yet a production exam service. Authentication, persistent database storage, secure timed test delivery, real AI generation, external integrations and any proctoring capability still require backend implementation and privacy/security review.
